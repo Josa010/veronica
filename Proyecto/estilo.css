@@ -1,0 +1,57 @@
+body {
+  background-image: url(img/fondo4.jpg);
+  background-color: #06133c;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+nav {
+  background-image: url(https://img.uefa.com/imgml/uefacom/ucl/bg.png);
+}
+
+.card {
+  background-image: url(img/fondo2.png);
+}
+
+.forme {
+  background-image: linear-gradient(#240480, #412a80);
+  border: solid 2px #8155ff;
+  border-radius: 10px;
+  width: 75%;
+  margin: auto;
+  position: block;
+  color: white;
+}
+.tbl {
+  text-align: center;
+  background-color: red;
+  text-shadow: 0px 0px 5px black;
+  color: white;
+  background-image: linear-gradient(darkblue, rgb(97, 138, 160));
+  box-shadow: 20px 20px 25px black, inset 0 0 20px rgb(0, 0, 0);
+}
+.reg {
+  background-image: linear-gradient(#06133c, #412a80);
+  border-radius: 10px;
+  text-align: center;
+  color: white;
+}
+.reg:hover {
+  color: white;
+}
+
+.reg:active {
+  background-image: linear-gradient(#06133c, #8155ff);
+  color: white;
+}
+
+.titulos {
+  background-image: url(img/fondo2.png);
+  text-align: center;
+  margin: auto;
+  position: block;
+  width: 75%;
+  border-radius: 10px;
+  color: white;
+}
